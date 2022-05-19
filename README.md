@@ -71,4 +71,5 @@ This repository is used to record LeetCode problem I met and how I thought
 |Status             |Question & Submission Link            | My C or C++ Implmentation               |
 |:------------------|:-------------------------------------|:----------------------------------------|
 |:heavy_check_mark: |[29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers) (MSFT)
+|:heavy_check_mark: |[Swap odd even bits](https://practice.geeksforgeeks.org/problems/swap-all-odd-and-even-bits-1587115621/1) (MSFT)
 
